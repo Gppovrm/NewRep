@@ -513,7 +513,7 @@
 			"PowerInfo": {
 				"Pwrt": 1,
 				"Vlt": 8460,
-				"Crnt": 2769,
+				"Crnt": 234,
 				"2Vlt": 12657,
 				"2Crnt": 322,
 				"Battery": 10
@@ -534,7 +534,7 @@
 			"PowerInfo": {
 				"Pwrt": 1,
 				"Vlt": 12007,
-				"Crnt": 257,
+				"Crnt": 242,
 				"2Vlt": 0,
 				"2Crnt": 0,
 				"Battery": 10
@@ -555,8 +555,8 @@
 
 			"PowerInfo": {
 				"Pwrt": 1,
-				"Vlt": 9740,
-				"Crnt": 234,
+				"Vlt": 8490,
+				"Crnt": 289,
 				"2Vlt": 150,
 				"2Crnt": 204,
 				"Battery": 11
